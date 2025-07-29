@@ -14,7 +14,7 @@ O aplicație web frumoasă și interactivă care afișează "Hello World" cu ani
 
 ## 🚀 Demo Live
 
-Poți vedea aplicația în acțiune [aici](https://tu-username.github.io/hello-world-app)
+Poți vedea aplicația în acțiune [aici](https://raulpopacognizant.github.io/helloworld)
 
 ## 📋 Instalare
 
@@ -119,4 +119,4 @@ Acest proiect este licențiat sub MIT License - vezi fișierul [LICENSE](LICENSE
 
 ---
 
-⭐ Dacă îți place proiectul, dă-i o stea pe GitHub! 
+⭐ Dacă îți place proiectul, dă-i o stea pe GitHub!
